@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #EEF0F3;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.fav-counter{
+  background-color: firebrick;
+  color:white;
+  border-radius: 50%;
+  padding:3px 7px;
+  margin:3px
 }
